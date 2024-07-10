@@ -1,0 +1,411 @@
+// Text file and user name 
+var user = 'Palkesh Prajapati';
+var textfile = `22/01/2023, 9:50 am - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+26/02/2024, 3:20 pm - Palkesh Prajapati: You deleted this message
+26/02/2024, 3:21 pm - Palkesh Prajapati: Sakina IT.vcf (file attached)
+26/02/2024, 3:21 pm - Palkesh Prajapati: Priyanka.vcf (file attached)
+28/03/2024, 6:34 pm - Zaid Diploma ET: Ye sabhi group me pocha do
+28/03/2024, 7:01 pm - Palkesh Prajapati: Haa
+03/04/2024, 9:16 pm - Palkesh Prajapati: Thanks!!
+03/04/2024, 9:16 pm - Palkesh Prajapati: .
+11/04/2024, 7:58 pm - Palkesh Prajapati: Eid Mubarak🌙 bhai...!!
+11/04/2024, 8:04 pm - Zaid Diploma ET: Shukriya bhai 🫂
+11/04/2024, 8:10 pm - Palkesh Prajapati: Kal aaoge na
+11/04/2024, 8:11 pm - Zaid Diploma ET: Haa bilkul
+11/04/2024, 8:11 pm - Zaid Diploma ET: Kal milte he
+11/04/2024, 8:11 pm - Palkesh Prajapati: Haa
+11/04/2024, 8:11 pm - Palkesh Prajapati: Khir leker aana...
+11/04/2024, 8:11 pm - Palkesh Prajapati: !!
+11/04/2024, 8:14 pm - Zaid Diploma ET: Ohk 🫡👍
+11/04/2024, 8:14 pm - Zaid Diploma ET: Done
+11/04/2024, 8:14 pm - Zaid Diploma ET: President sir ne bola he to Lani he padegi abb
+11/04/2024, 8:18 pm - Palkesh Prajapati: Ohhhhh......
+11/04/2024, 8:18 pm - Palkesh Prajapati: Bus bus yarrr😅
+11/04/2024, 8:18 pm - Zaid Diploma ET: Haa
+11/04/2024, 8:18 pm - Zaid Diploma ET: Or kya
+11/04/2024, 8:18 pm - Palkesh Prajapati: Mat shrminda kro...
+11/04/2024, 8:19 pm - Zaid Diploma ET: Aare
+11/04/2024, 8:19 pm - Zaid Diploma ET: 😂
+11/04/2024, 8:19 pm - Palkesh Prajapati: 😅
+11/04/2024, 8:19 pm - Zaid Diploma ET: Hnm chalo kal milte he apan
+11/04/2024, 8:19 pm - Zaid Diploma ET: Or tum insta pe aajao
+11/04/2024, 8:20 pm - Palkesh Prajapati: Nhi yarrrr!!🥺
+11/04/2024, 8:20 pm - Palkesh Prajapati: Haaa!!
+11/04/2024, 8:29 pm - Zaid Diploma ET: Thik he
+12/04/2024, 9:37 pm - Palkesh Prajapati: 😃😃💙
+12/04/2024, 9:44 pm - Zaid Diploma ET: Kal aaoge
+12/04/2024, 10:00 pm - Palkesh Prajapati: Well haa
+12/04/2024, 10:01 pm - Palkesh Prajapati: Tum jaoge?
+12/04/2024, 10:13 pm - Zaid Diploma ET: Aacha
+12/04/2024, 10:13 pm - Zaid Diploma ET: Haa aaunga me aajana yrrr
+12/04/2024, 10:25 pm - Palkesh Prajapati: Haa
+12/04/2024, 10:25 pm - Zaid Diploma ET: Haaa aajana
+12/04/2024, 10:26 pm - Zaid Diploma ET: Kal agar hua to pizza khane chal chalege
+12/04/2024, 10:26 pm - Zaid Diploma ET: 😁😁
+12/04/2024, 10:26 pm - Palkesh Prajapati: Haaa thik he😄😄
+12/04/2024, 10:26 pm - Zaid Diploma ET: 😁😁😁
+12/04/2024, 10:26 pm - Zaid Diploma ET: Haaa
+12/04/2024, 10:26 pm - Palkesh Prajapati: Hmm
+12/04/2024, 10:27 pm - Zaid Diploma ET: Domino's chalege
+12/04/2024, 10:27 pm - Zaid Diploma ET: Aaj dhek leya to iccha ho gaye thi
+12/04/2024, 10:27 pm - Zaid Diploma ET: 🙂🥲
+12/04/2024, 10:27 pm - Zaid Diploma ET: 😂
+12/04/2024, 10:27 pm - Palkesh Prajapati: Ohhhh
+12/04/2024, 10:27 pm - Zaid Diploma ET: 😂
+12/04/2024, 10:27 pm - Zaid Diploma ET: Ha
+12/04/2024, 10:27 pm - Palkesh Prajapati: Haa
+12/04/2024, 10:27 pm - Palkesh Prajapati: Chlege
+12/04/2024, 10:28 pm - Zaid Diploma ET: Hnnn
+12/04/2024, 10:28 pm - Palkesh Prajapati: Hmm
+13/04/2024, 10:17 am - Palkesh Prajapati: Hey,
+13/04/2024, 10:18 am - Palkesh Prajapati: Ajj piza ke liye shayed nhi ja payege yarr🥲
+13/04/2024, 10:19 am - Palkesh Prajapati: Fhar jldi aana rhega yarr meko!!
+13/04/2024, 10:19 am - Palkesh Prajapati: .
+13/04/2024, 10:25 am - Zaid Diploma ET: Haa ohk koi na
+13/04/2024, 10:25 am - Zaid Diploma ET: Clg to aare ho na
+13/04/2024, 10:38 am - Palkesh Prajapati: Nhi yarrr cancel ho gya🥲
+13/04/2024, 10:47 am - Palkesh Prajapati: Sorry!
+13/04/2024, 10:47 am - Palkesh Prajapati: .
+13/04/2024, 10:48 am - Zaid Diploma ET: Aare koi na
+16/04/2024, 12:20 pm - Palkesh Prajapati: hy
+16/04/2024, 1:06 pm - Zaid Diploma ET: Hii
+16/04/2024, 4:20 pm - Palkesh Prajapati: Kha hoo..!
+16/04/2024, 4:45 pm - Zaid Diploma ET: Me agra
+16/04/2024, 4:45 pm - Zaid Diploma ET: Me huu
+16/04/2024, 5:38 pm - Palkesh Prajapati: Ohh
+16/04/2024, 5:38 pm - Palkesh Prajapati: Nice!!
+16/04/2024, 5:50 pm - Zaid Diploma ET: Haa aare network he nahi milraaa
+16/04/2024, 5:50 pm - Zaid Diploma ET: 🫡
+16/04/2024, 5:50 pm - Zaid Diploma ET: Or Aaj clg gaye theee..
+16/04/2024, 5:54 pm - Palkesh Prajapati: Ohh koi na
+16/04/2024, 5:55 pm - Palkesh Prajapati: Haa
+16/04/2024, 5:59 pm - Zaid Diploma ET: Badiya
+16/04/2024, 5:59 pm - Zaid Diploma ET: 👍
+19/04/2024, 2:41 pm - Palkesh Prajapati: Nice pic🤘
+19/04/2024, 2:58 pm - Zaid Diploma ET: Thank you brooo
+24/04/2024, 11:52 am - Palkesh Prajapati: Bs bsss
+24/04/2024, 11:52 am - Zaid Diploma ET: Palkesh
+24/04/2024, 11:52 am - Zaid Diploma ET: 🤣🤣🤣
+24/04/2024, 11:53 am - Zaid Diploma ET: Bhai me teko phone nahi dunga
+24/04/2024, 11:53 am - Zaid Diploma ET: Kabhi bhi
+24/04/2024, 11:53 am - Zaid Diploma ET: 🤣🤣😂😂😂
+24/04/2024, 11:53 am - Palkesh Prajapati: Mat do😂😂
+24/04/2024, 11:54 am - Zaid Diploma ET: 😂😂😂
+24/04/2024, 11:55 am - Palkesh Prajapati: Aage aa jaoo
+24/04/2024, 11:55 am - Zaid Diploma ET: Palkesh inke sath chalte apan
+24/04/2024, 11:55 am - Zaid Diploma ET: 😂😂
+24/04/2024, 11:55 am - Zaid Diploma ET: Sukh shanti milegi
+24/04/2024, 11:55 am - Zaid Diploma ET: Kaha Raha zindagi me
+24/04/2024, 11:55 am - Palkesh Prajapati: Mere pass mere privet prabhu ji he😂😂
+24/04/2024, 11:55 am - Palkesh Prajapati: Me to unke sath jaunga
+24/04/2024, 11:55 am - Zaid Diploma ET: Aacha
+24/04/2024, 11:56 am - Zaid Diploma ET: Matlab me nikalu
+24/04/2024, 11:56 am - Zaid Diploma ET: 😂👍
+24/04/2024, 11:56 am - Palkesh Prajapati: 😂😂
+24/04/2024, 11:56 am - Palkesh Prajapati: Nhi yarrr
+24/04/2024, 11:57 am - Palkesh Prajapati: Bhut jrurt he tumhari😂
+24/04/2024, 11:58 am - Zaid Diploma ET: Haa 😁
+24/04/2024, 11:58 am - Zaid Diploma ET: Kya
+24/04/2024, 11:58 am - Zaid Diploma ET: 😂😂
+24/04/2024, 11:58 am - Zaid Diploma ET: Sukh shanti
+24/04/2024, 11:58 am - Zaid Diploma ET: 😌
+24/04/2024, 11:58 am - Palkesh Prajapati: Ha ha
+24/04/2024, 11:58 am - Palkesh Prajapati: 😂😂
+24/04/2024, 11:59 am - Zaid Diploma ET: Aare yrr kuch nahi pada hamne
+24/04/2024, 11:59 am - Zaid Diploma ET: 🤣🤣😂🤌
+24/04/2024, 12:03 pm - Palkesh Prajapati: Kya pdhna tha
+24/04/2024, 12:03 pm - Zaid Diploma ET: Pata nahi
+24/04/2024, 12:03 pm - Zaid Diploma ET: Per depression
+24/04/2024, 12:03 pm - Zaid Diploma ET: 🥲
+24/04/2024, 12:04 pm - Zaid Diploma ET: Personal hoore sir
+24/04/2024, 12:04 pm - Palkesh Prajapati: Kya!
+24/04/2024, 12:05 pm - Zaid Diploma ET: Tension lete
+24/04/2024, 12:05 pm - Zaid Diploma ET: Depression aata
+24/04/2024, 12:05 pm - Zaid Diploma ET: 😂
+24/04/2024, 12:05 pm - Palkesh Prajapati: Ohh😂😂
+24/04/2024, 12:06 pm - Zaid Diploma ET: Yes
+24/04/2024, 12:06 pm - Palkesh Prajapati: Phir apn chlte he inke sath
+24/04/2024, 12:06 pm - Zaid Diploma ET: 😂
+24/04/2024, 12:06 pm - Zaid Diploma ET: Me ready hu
+24/04/2024, 12:06 pm - Zaid Diploma ET: 😂
+24/04/2024, 12:06 pm - Palkesh Prajapati: Okkk😂
+24/04/2024, 12:06 pm - Zaid Diploma ET: Haa
+24/04/2024, 12:07 pm - Palkesh Prajapati: White sadi ka intezam kro
+24/04/2024, 12:07 pm - Zaid Diploma ET: Aare padi upper jisse bench sad karte
+24/04/2024, 12:07 pm - Zaid Diploma ET: Wahi pehen chalege abhi to
+24/04/2024, 12:08 pm - Palkesh Prajapati: Ohg okkk😂😂
+24/04/2024, 12:09 pm - Zaid Diploma ET: Haaa
+24/04/2024, 12:09 pm - Zaid Diploma ET: Petrol ki galti he
+24/04/2024, 12:09 pm - Palkesh Prajapati: Haaa😂😂😂
+15/05/2024, 7:25 pm - Palkesh Prajapati: Jainval  sir se bat kri thi kya?
+15/05/2024, 7:35 pm - Zaid Diploma ET: Haa hue thi aaya tha call
+15/05/2024, 7:35 pm - Zaid Diploma ET: Sir ka
+15/05/2024, 7:36 pm - Palkesh Prajapati: kab?
+15/05/2024, 7:37 pm - Zaid Diploma ET: Aaj sham me
+15/05/2024, 7:37 pm - Palkesh Prajapati: personal bat nhi hui?
+15/05/2024, 7:38 pm - Zaid Diploma ET: Personal means
+15/05/2024, 7:38 pm - Zaid Diploma ET: 🙂
+15/05/2024, 7:38 pm - Palkesh Prajapati: null
+15/05/2024, 7:38 pm - Zaid Diploma ET: U mean face to face
+15/05/2024, 7:39 pm - Palkesh Prajapati: Yep😅
+18/05/2024, 5:36 pm - Zaid Diploma ET: ...
+18/05/2024, 5:42 pm - Zaid Diploma ET: ...
+18/05/2024, 6:43 pm - Palkesh Prajapati: Ye vala hi liya he jaid
+18/05/2024, 6:51 pm - Zaid Diploma ET: Mast he 👍
+18/05/2024, 6:57 pm - Palkesh Prajapati: Okk tq😊☺️
+19/05/2024, 2:02 pm - Zaid Diploma ET: Loveyanshi ✨ Personal.vcf (file attached)
+19/05/2024, 10:03 pm - Palkesh Prajapati: Kya kru yarr kuch smz nhi aa rha
+19/05/2024, 10:05 pm - Zaid Diploma ET: Leke bheta hu yrrr
+19/05/2024, 10:05 pm - Zaid Diploma ET: 🥲🥲🥲
+19/05/2024, 10:05 pm - Zaid Diploma ET: Samaj Sai me nahi aara
+19/05/2024, 10:08 pm - Palkesh Prajapati: Ohh
+19/05/2024, 10:08 pm - Palkesh Prajapati: Sachh me yarr😂
+19/05/2024, 10:23 pm - Palkesh Prajapati: Muze advice do na
+19/05/2024, 10:53 pm - Zaid Diploma ET: Black peheno andar
+19/05/2024, 10:53 pm - Zaid Diploma ET: Aacha lagra he
+20/05/2024, 7:14 am - Palkesh Prajapati: To fir ajj white
+20/05/2024, 7:14 am - Palkesh Prajapati: Kal black
+20/05/2024, 8:43 am - Palkesh Prajapati: Or tumhari dress ka kya huva?
+20/05/2024, 9:23 am - Zaid Diploma ET: Haaa
+20/05/2024, 9:41 am - Zaid Diploma ET: Mera bhi ho gaya he select
+20/05/2024, 9:41 am - Zaid Diploma ET: Ander brown he
+20/05/2024, 9:41 am - Zaid Diploma ET: Wahi aacha lagra tha isleya
+20/05/2024, 9:51 am - Palkesh Prajapati: Ohh okk
+20/05/2024, 1:11 pm - Palkesh Prajapati: https://youtu.be/wNnMEDvWI_Y?si=qwYupgpq8qo64R6g
+20/05/2024, 7:37 pm - Zaid Diploma ET: location: https://maps.google.com/?q=23.1742029,75.7816275
+20/05/2024, 9:00 pm - Palkesh Prajapati: Handsome 😍👌🤌
+20/05/2024, 9:17 pm - Zaid Diploma ET: Ha ha but tumse Kam
+20/05/2024, 9:17 pm - Zaid Diploma ET: 😂
+20/05/2024, 9:47 pm - Palkesh Prajapati: itna juth bologe to nrkh me jaoge😂
+20/05/2024, 10:19 pm - Zaid Diploma ET: 😂😂😂🤣
+20/05/2024, 10:19 pm - Zaid Diploma ET: Aareh nahi nahi bhai
+20/05/2024, 10:24 pm - Palkesh Prajapati: nhi nhi jaooge
+20/05/2024, 10:24 pm - Zaid Diploma ET: 😂😂😂
+20/05/2024, 10:24 pm - Zaid Diploma ET: Ha to sath me chalna mere
+20/05/2024, 10:24 pm - Palkesh Prajapati: ok
+20/05/2024, 10:24 pm - Zaid Diploma ET: Haaa
+20/05/2024, 10:24 pm - Zaid Diploma ET: 😂😂
+20/05/2024, 10:24 pm - Zaid Diploma ET: Sath me chalege
+20/05/2024, 10:25 pm - Palkesh Prajapati: Nhii me kyooo!! mene juth nhi bola
+20/05/2024, 10:25 pm - Palkesh Prajapati: me nhi jaunga
+20/05/2024, 10:25 pm - Palkesh Prajapati: mene to sach bola!! *truth*
+20/05/2024, 10:54 pm - Zaid Diploma ET: Aahaaa
+20/05/2024, 10:54 pm - Zaid Diploma ET: 😂
+21/05/2024, 7:08 pm - Palkesh Prajapati: Yarr zaid photo send kyo nhi kr rhe kal ke?
+21/05/2024, 7:09 pm - Zaid Diploma ET: Bhai kal ke kaare to personal sabko
+21/05/2024, 7:09 pm - Zaid Diploma ET: Inte he tha
+21/05/2024, 7:09 pm - Zaid Diploma ET: Dheko to upper 75 photos bheje 🙂🤌 kal
+21/05/2024, 7:10 pm - Palkesh Prajapati: Haa but yarr apn ne orrbhut se click kiye thee snap ke bhi the sabke personal bhi the
+21/05/2024, 7:10 pm - Zaid Diploma ET: Bhai snap pe mere isse thodi leya the
+21/05/2024, 7:10 pm - Zaid Diploma ET: 🥲🥲
+21/05/2024, 7:11 pm - Palkesh Prajapati: Pakka sare send kr diye tumne
+21/05/2024, 7:11 pm - Zaid Diploma ET: Haaa Bhai
+21/05/2024, 7:11 pm - Palkesh Prajapati: Okkk😊
+21/05/2024, 7:11 pm - Zaid Diploma ET: Haaa or batao
+21/05/2024, 7:11 pm - Zaid Diploma ET: 😂
+21/05/2024, 7:12 pm - Palkesh Prajapati: Kyaa btau😅 <This message was edited>
+21/05/2024, 7:13 pm - Zaid Diploma ET: Kuch nahi
+21/05/2024, 7:13 pm - Zaid Diploma ET: 😅
+21/05/2024, 7:24 pm - Palkesh Prajapati: Waa😂
+21/05/2024, 7:24 pm - Zaid Diploma ET: 😂👊
+24/05/2024, 9:37 am - Palkesh Prajapati: <Media omitted>
+24/05/2024, 9:37 am - Palkesh Prajapati: Ajj chalte he
+24/05/2024, 9:40 am - Zaid Diploma ET: Haaa chalo Aaj chalte he
+24/05/2024, 9:40 am - Zaid Diploma ET: Kitne baje see....
+24/05/2024, 9:41 am - Zaid Diploma ET: Jayege
+24/05/2024, 2:23 pm - Palkesh Prajapati: Abhi to kuch pkka hi nhi he jane ka
+24/05/2024, 2:24 pm - Palkesh Prajapati: Or me cycle se aaya hu!🥲
+24/05/2024, 2:54 pm - Zaid Diploma ET: Ha koi niu
+24/05/2024, 3:01 pm - Palkesh Prajapati: Nhi Jaa rhe
+24/05/2024, 3:03 pm - Zaid Diploma ET: Ohk
+25/05/2024, 8:42 am - Palkesh Prajapati: Hyy
+25/05/2024, 8:42 am - Palkesh Prajapati: Clg aa rhe ho na
+25/05/2024, 10:38 am - Zaid Diploma ET: Nahi yrrr Sooke uttha Aaj late
+25/05/2024, 10:38 am - Zaid Diploma ET: 🥲👍
+25/05/2024, 10:41 am - Palkesh Prajapati: Aree yarrr🥲
+25/05/2024, 10:42 am - Palkesh Prajapati: Koi na
+25/05/2024, 10:45 am - Zaid Diploma ET: 🥲🥲🥲
+25/05/2024, 10:45 am - Zaid Diploma ET: Bhai nind he nahi khuli or Ghar walo ne utthaya bhi nii
+25/05/2024, 10:45 am - Zaid Diploma ET: 😑🤚
+25/05/2024, 4:26 pm - Zaid Diploma ET: Palkesh vo sir se photos le leya kya
+25/05/2024, 4:26 pm - Zaid Diploma ET: Saare ...?
+25/05/2024, 5:33 pm - Palkesh Prajapati: Ohh okk.. koi na
+25/05/2024, 5:35 pm - Palkesh Prajapati: Aree tumhari chat achhive me chal gayi thi glti se... Islye message ka pta hi ni chla <This message was edited>
+25/05/2024, 5:35 pm - Palkesh Prajapati: Haa
+25/05/2024, 5:36 pm - Zaid Diploma ET: Bhejo yrr mere
+25/05/2024, 5:36 pm - Zaid Diploma ET: Ho to
+25/05/2024, 5:37 pm - Palkesh Prajapati: Lap me he
+25/05/2024, 5:37 pm - Palkesh Prajapati: Sham tak bhej ta hu
+25/05/2024, 5:39 pm - Palkesh Prajapati: Chlega?
+25/05/2024, 5:42 pm - Zaid Diploma ET: No problem
+25/05/2024, 5:42 pm - Zaid Diploma ET: Bhej dena
+25/05/2024, 7:31 pm - Palkesh Prajapati: Ok
+25/05/2024, 8:31 pm - Palkesh Prajapati: <Media omitted>
+25/05/2024, 8:31 pm - Palkesh Prajapati: <Media omitted>
+25/05/2024, 9:01 pm - Palkesh Prajapati: bus ye do hi photo he yarr
+25/05/2024, 9:03 pm - Zaid Diploma ET: Ohk video
+25/05/2024, 9:03 pm - Zaid Diploma ET: 🫠
+25/05/2024, 9:05 pm - Palkesh Prajapati: Are vo gdhe ne tumhari video hi ni bnai
+25/05/2024, 9:06 pm - Zaid Diploma ET: Wah
+25/05/2024, 9:06 pm - Zaid Diploma ET: Koi baat nahi chodo
+25/05/2024, 9:07 pm - Palkesh Prajapati: hmm
+25/05/2024, 9:09 pm - Zaid Diploma ET: Haaa
+26/05/2024, 3:52 pm - Zaid Diploma ET: <Media omitted>
+26/05/2024, 3:52 pm - Zaid Diploma ET: Ho gaya project bas final touchup karna
+26/05/2024, 5:15 pm - Palkesh Prajapati: ohh great
+26/05/2024, 5:24 pm - Palkesh Prajapati: clg me btana
+26/05/2024, 5:59 pm - Zaid Diploma ET: Haaa bilkul
+30/05/2024, 9:31 pm - Palkesh Prajapati: Kya huva call kiya tha?
+30/05/2024, 10:52 pm - Zaid Diploma ET: Haa
+06/06/2024, 8:17 pm - Palkesh Prajapati: Kr lena khushal se bat bhlehi..
+16/06/2024, 2:49 pm - Palkesh Prajapati: Yep😂
+16/06/2024, 3:51 pm - Zaid Diploma ET: 😭😂🤌
+24/06/2024, 10:07 pm - Palkesh Prajapati: Ho gyi preparation kal paper ki?
+24/06/2024, 10:40 pm - Zaid Diploma ET: Haaa yrr
+24/06/2024, 10:40 pm - Zaid Diploma ET: 😮‍💨😮‍💨
+24/06/2024, 10:40 pm - Zaid Diploma ET: Bas abb sounga kal utthna he subhe 😤✊
+24/06/2024, 10:44 pm - Palkesh Prajapati: Yes
+24/06/2024, 10:44 pm - Palkesh Prajapati: Same here
+24/06/2024, 10:44 pm - Zaid Diploma ET: 😤😤
+24/06/2024, 10:44 pm - Zaid Diploma ET: Uttha dena yrr subhe
+24/06/2024, 10:44 pm - Palkesh Prajapati: Kitni bj😂
+24/06/2024, 10:45 pm - Zaid Diploma ET: 6
+24/06/2024, 10:45 pm - Zaid Diploma ET: 😤😤
+24/06/2024, 10:45 pm - Palkesh Prajapati: Try krunga
+24/06/2024, 10:45 pm - Zaid Diploma ET: 🫡
+24/06/2024, 10:45 pm - Zaid Diploma ET: Ohk
+24/06/2024, 10:46 pm - Palkesh Prajapati: Good Night 🌉🌠🌃
+24/06/2024, 10:46 pm - Zaid Diploma ET: Gud nyt
+25/06/2024, 6:33 pm - Palkesh Prajapati: Paper kesa gya <This message was edited>
+25/06/2024, 8:11 pm - Zaid Diploma ET: Aare Sai me bohot he tricky question the yrrr
+25/06/2024, 8:11 pm - Zaid Diploma ET: Matlab excate to kuch nahi aaya
+25/06/2024, 8:12 pm - Zaid Diploma ET: Bohot hard paper aaya tha but sab question attempt kiya mene to
+25/06/2024, 8:22 pm - Palkesh Prajapati: Ohh 😯
+25/06/2024, 8:22 pm - Palkesh Prajapati: Vise president esa bolega to duse bcho ka kya hal huva hoga
+25/06/2024, 8:35 pm - Zaid Diploma ET: 🥲🥲🥲
+25/06/2024, 8:35 pm - Zaid Diploma ET: Aare sabka bura haal he
+03/07/2024, 2:33 am - Zaid Diploma ET: Almost ready he project
+03/07/2024, 2:33 am - Zaid Diploma ET: <Media omitted>
+03/07/2024, 2:33 am - Zaid Diploma ET: <Media omitted>
+03/07/2024, 2:34 am - Zaid Diploma ET: Ready
+03/07/2024, 2:34 am - Zaid Diploma ET: <Media omitted>
+03/07/2024, 6:43 am - Palkesh Prajapati: Nice 🤩 <This message was edited>
+03/07/2024, 6:44 am - Palkesh Prajapati: Bhut accha ho gya yarr
+03/07/2024, 6:44 am - Palkesh Prajapati: Best
+03/07/2024, 6:44 am - Palkesh Prajapati: Ise clg me submit Krna pdega kya?🥲
+03/07/2024, 9:59 am - Zaid Diploma ET: Haaa
+03/07/2024, 9:59 am - Zaid Diploma ET: 🥲👍
+03/07/2024, 10:08 am - Palkesh Prajapati: Yarr🥲
+03/07/2024, 10:09 am - Palkesh Prajapati: Well itni ratt me project pe kam kr rhe the?😮
+03/07/2024, 10:18 am - Zaid Diploma ET: Yess...🙂
+03/07/2024, 11:44 am - Palkesh Prajapati: Waa yarrr
+03/07/2024, 12:50 pm - Zaid Diploma ET: Haa
+07/07/2024, 7:52 am - Palkesh Prajapati: Handsome bro 🥵❤️‍🔥❤️‍🔥
+07/07/2024, 9:58 am - Zaid Diploma ET: 🫣
+09/07/2024, 8:23 pm - Palkesh Prajapati: <Media omitted>
+09/07/2024, 8:23 pm - Palkesh Prajapati: Bs ye 2023 ki ek hi commen marid list he yarr.. or dusre years ki bhut dhudi per nhi mili
+09/07/2024, 8:23 pm - Palkesh Prajapati: Well cut-off list chhahiye to vo *dte* ki website pr mil jayegi.. but unse koi khas information nhi milti
+09/07/2024, 8:24 pm - Zaid Diploma ET: Ohk
+09/07/2024, 8:24 pm - Palkesh Prajapati: CGPA dekho bccho ke😭🥲
+09/07/2024, 8:25 pm - Zaid Diploma ET: 97.5 🥲🥲
+09/07/2024, 8:25 pm - Zaid Diploma ET: Kya padai ki hogi yrrr
+09/07/2024, 8:25 pm - Zaid Diploma ET: Matlab almost sabhi semister me full marks
+09/07/2024, 8:25 pm - Palkesh Prajapati: Vhi to
+09/07/2024, 8:26 pm - Palkesh Prajapati: 81 bccho ke marks 9 ki line me he💀
+09/07/2024, 8:26 pm - Palkesh Prajapati: 🥲
+09/07/2024, 8:26 pm - Zaid Diploma ET: 🥲🥲🥲don't worry iss bar shayad na jaye itne
+09/07/2024, 8:26 pm - Zaid Diploma ET: 🙂👍
+09/07/2024, 8:27 pm - Zaid Diploma ET: Be positive
+09/07/2024, 8:27 pm - Palkesh Prajapati: Hope so🤞🤞
+09/07/2024, 8:27 pm - Palkesh Prajapati: Yup🩵👍
+09/07/2024, 8:27 pm - Zaid Diploma ET: Vo I'd bana li indeed pe
+09/07/2024, 8:27 pm - Zaid Diploma ET: ...?
+09/07/2024, 8:28 pm - Palkesh Prajapati: Nhi yarr.. uska kam kal krunga
+09/07/2024, 8:28 pm - Zaid Diploma ET: Haa new day new work 😅
+09/07/2024, 8:29 pm - Palkesh Prajapati: Haaa😅 but use phle me soch rha tha ki jo project mene abhi tk bnaye he unhe insta, linked-in per showcase kr du
+09/07/2024, 8:30 pm - Zaid Diploma ET: Haa ye mast idea he
+09/07/2024, 8:31 pm - Palkesh Prajapati: Haa😅.. but mhnt ka kam he bhut
+09/07/2024, 8:31 pm - Palkesh Prajapati: Kal start krta hu
+09/07/2024, 8:32 pm - Zaid Diploma ET: Haa all the best 👍
+09/07/2024, 8:32 pm - Zaid Diploma ET: https://internshala.com/
+09/07/2024, 8:32 pm - Zaid Diploma ET: https://indeed.com/
+09/07/2024, 8:33 pm - Palkesh Prajapati: Thankyou and you too...
+09/07/2024, 8:33 pm - Palkesh Prajapati: Thanks him from my side
+09/07/2024, 8:35 pm - Zaid Diploma ET: Ohk
+09/07/2024, 8:35 pm - Zaid Diploma ET: 👍
+`;
+const isTouchBottom = () => {
+    if ((window.innerHeight + window.scrollY) >= document.body.scrollHeight) {
+        return true;
+    }
+    return false;
+};
+
+// Message modification
+const nextMessage = () => {
+    const messageEndIndexMinus22 = (textfile.slice(22)).search(/\d\d[/]\d\d[/]\d\d\d\d, \d/);
+    const endIndexOfMessage = (messageEndIndexMinus22 == -1) ? (textfile.length) : (messageEndIndexMinus22 + 22);
+    const message = textfile.slice(0, endIndexOfMessage);
+    textfile = textfile.replace(message, '');
+    return message.slice(0, -1);
+}
+let currentNameColor = 'd88deb';
+var everyone = {};
+const messageDetails = (message) => {
+    const mDetails = {};
+    mDetails.date = message.slice(0, 10);
+    mDetails.time = (message.slice(12, 20)).trimEnd();
+    mDetails.text = (message.slice(message.indexOf(': ', 22) + 2));
+    mDetails.senderName = (message.slice(22, (message.indexOf(':', 22)))).trimStart();
+    if (everyone[mDetails.senderName] == undefined) {
+        mDetails.senderNickName = (mDetails.senderName).slice(0, (mDetails.senderName).indexOf(" "));
+        mDetails.whoAmI = (message.includes(user)) ? 'you' : 'other';
+        mDetails.nameColor = `#${currentNameColor}`;
+        currentNameColor = ((parseInt(currentNameColor, 16) * 30).toString(16)).slice(0, 6);
+        
+        everyone[mDetails.senderName] = {senderNickName: mDetails.senderNickName, whoAmI: mDetails.whoAmI, nameColor: mDetails.nameColor}
+    }
+    else{
+        mDetails.senderNickName = everyone[mDetails.senderName].senderNickName;
+        mDetails.whoAmI = everyone[mDetails.senderName].whoAmI;
+        mDetails.nameColor = everyone[mDetails.senderName].nameColor;
+    }
+    return mDetails;
+}
+
+// Adding message in DOM 
+var z_index = 0;
+const addDate = (date) => {
+    const container = document.getElementById("container");
+    container.insertAdjacentHTML('afterbegin', `<span class="date">${date}</span>`);
+    container.firstElementChild.style.zIndex = z_index;
+    z_index++;
+}
+const addTxt = (text, whoAmI, senderNickName, time, nameColor) => {
+    const container = document.getElementById("container");
+    container.insertAdjacentHTML('afterbegin', `<span class="onlyTxt ${whoAmI}">${(whoAmI == 'other')?(`<p>${senderNickName}</p>`):('<p></p>')}${text}<small>${time}</small></span>`);
+    container.firstElementChild.getElementsByTagName('p')[0].style.color = nameColor;
+}
+
+// Start of Program: 
+let onetime = true;
+let date;
+let code = setInterval(() => {
+    if((window.innerHeight + window.scrollY) >= document.body.scrollHeight){
+        console.log("BOTTOM")
+        for (let index = 0; (index < 50 && textfile != ""); index++) {
+            let message = nextMessage();
+            let mDetails = messageDetails(message);
+            if (date != mDetails.date || onetime) {
+                date = mDetails.date;
+                addDate(date);
+                onetime = false;
+            }
+            addTxt(mDetails.text, mDetails.whoAmI, mDetails.senderNickName, mDetails.time, mDetails.nameColor);
+        }
+    }
+    if (textfile == "") {
+        clearInterval(code);
+    }
+}, 1000)
+
